@@ -1,6 +1,6 @@
 .alert-text {
   background-color: hsl(3,40%,60%);
-  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .severe-alert {
